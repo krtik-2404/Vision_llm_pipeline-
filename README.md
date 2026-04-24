@@ -3,7 +3,7 @@
 
 > ⚠️ **Status: Demo / Work in Progress**  
 > This is an early-stage demo built to validate the descriptor layer architecture 
-> described in [this LinkedIn post](#). Core pipeline works end-to-end. 
+> described in [LinkedIn post : https://www.linkedin.com/feed/update/urn:li:activity:7453489963859329024/](#). Core pipeline works end-to-end. 
 > Webcam/video support, expanded semantic maps, and performance benchmarks are in progress.
 
 
