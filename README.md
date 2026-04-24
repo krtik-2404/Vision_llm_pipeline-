@@ -21,6 +21,9 @@ Built as the implementation behind the LinkedIn post:
 A naive CV + LLM pipeline looks like this:
 
 ```
+
+![Vision LLM Demo](src/vision_Ilm_demo.png)
+
 Image → YOLO → "person, bottle, chair" → LLM → shallow reasoning
 ```
 
